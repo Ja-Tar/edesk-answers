@@ -6,8 +6,9 @@
 // @updateURL    https://github.com/Ja-Tar/edesk-answers/raw/main/script.user.js
 // @downloadURL  https://github.com/Ja-Tar/edesk-answers/raw/main/script.user.js
 // @match https://edesk.pearson.pl/*
+// @icon https://edesk.pearson.pl/favicon.ico
 // @grant none
-// @version 0.1.2
+// @version 0.1.3
 // ==/UserScript==
 
 setTimeout(() => {
