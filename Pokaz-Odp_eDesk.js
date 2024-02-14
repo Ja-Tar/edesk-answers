@@ -5,10 +5,10 @@
 // @supportURL   https://github.com/Ja-Tar/edesk-answers/issues
 // @updateURL    https://github.com/Ja-Tar/edesk-answers/raw/main/script.user.js
 // @downloadURL  https://github.com/Ja-Tar/edesk-answers/raw/main/script.user.js
-// @match https://edesk.pearson.pl/*
+// @match https://edesk.pearson.pl/lesson/*
 // @icon https://edesk.pearson.pl/favicon.ico
 // @grant none
-// @version 0.1.5
+// @version 0.1.6
 // ==/UserScript==
 
 setTimeout(() => {
