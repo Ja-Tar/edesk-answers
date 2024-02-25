@@ -3,8 +3,8 @@
 // @namespace https://github.com/Ja-Tar/edesk-answers
 // @homepageURL  https://github.com/Ja-Tar/edesk-answers
 // @supportURL   https://github.com/Ja-Tar/edesk-answers/issues
-// @updateURL    https://github.com/Ja-Tar/edesk-answers/raw/main/script.user.js
-// @downloadURL  https://github.com/Ja-Tar/edesk-answers/raw/main/script.user.js
+// @updateURL    https://raw.githubusercontent.com/Ja-Tar/edesk-answers/main/Pokaz-Odp_eDesk.user.js
+// @downloadURL  https://raw.githubusercontent.com/Ja-Tar/edesk-answers/main/Pokaz-Odp_eDesk.user.js
 // @match https://edesk.pearson.pl/lesson/*
 // @icon https://edesk.pearson.pl/favicon.ico
 // @grant none
