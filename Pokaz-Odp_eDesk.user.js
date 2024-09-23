@@ -31,7 +31,13 @@ setTimeout(() => {
   //Add click event listener to run script button
   runBtn.addEventListener("click", function () {
     //Get the Show Answers button
-    const iframeDocument = document.getElementById('content-iframe').contentWindow.document;
+    const _iframeDocument = document.getElementById('content-iframe');
+    let iframeDocument = null;
+    if (_iframeDocument) {
+        iframeDocument = document.getElementById('content-iframe').contentWindow.document;
+    } else {
+        iframeDocument = document;
+    }
     var showAnswersBtn = iframeDocument.getElementById("Show_Answers1");
 
     //Check if Show Answers button exists
