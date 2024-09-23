@@ -32,7 +32,7 @@ setTimeout(() => {
   runBtn.addEventListener("click", function () {
     //Get the Show Answers button
     const _iframeDocument = document.getElementById('content-iframe');
-    let iframeDocument = null;
+    let iframeDocument;
     if (_iframeDocument) {
         iframeDocument = document.getElementById('content-iframe').contentWindow.document;
     } else {
